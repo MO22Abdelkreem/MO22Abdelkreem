@@ -1,6 +1,6 @@
 # 💫 About Me:
-I`m currently work on as database developer Database,<br>Developer with experience in data integrity and database monitoring.<br>Currently developing backend skills using Java and Spring Boot through hands-on learning and personal projects.,
-
+I’m a Database Developer with experience in SQL, data integrity, and database monitoring.<br>
+Currently developing Full Stack applications using Java, Spring Boot, and Angular through hands-on projects.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mohamed-abdelkreem-286864357) [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/moabdelkreem1510)
